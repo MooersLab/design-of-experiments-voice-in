@@ -136,7 +136,7 @@ expand SOBSA,sequencing optimization based on simulated annealing
 expand SPC,Statistical Process Control
 expand SPRT,Sequential Probability Ratio Test
 expand SR,Shiryayev-Roberts
-expand SSE,Sum of Squares of Residuals
+expand SSE,Sum of Square Errors
 expand SSR,Sum of Squares Around the Regression Model
 expand SST,Total Sum of Squares
 expand STD,Standard Deviation

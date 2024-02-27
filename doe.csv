@@ -1,0 +1,154 @@
+expand AES,adaptive exploratory sampling
+expand AHS,adaptive hybrid sampling
+expand AMPSO,adaptive memetic particle swarm optimization
+expand ANN,artificial neural networks
+expand ANOVA,Analysis of Variance
+expand ANSI,American National Standard Institute
+expand AOQ,Average Outgoing Quality
+expand AOQL,Average Outgoing Quality Limit
+expand AQL,Acceptable Quality Level
+expand ARL,Average Run Length
+expand ASN,Average Sample Number
+expand ASQ,American Society for Quality
+expand ATI,Average Total Inspection
+expand BB,branch and bound
+expand BECM,Bayes Estimation of the Current Mean
+expand BIBD,Balanced Incomplete Block Design
+expand BIBD,balanced incomplete block design
+expand BP,Bootstrap Population
+expand CAD,Computer Aided Design
+expand CADD,Computer Aided Drawing and Drafting
+expand CAM,Computer Aided Manufacturing
+expand CAMM,continuous and multi-modal
+expand CBD,Complete Block Design
+expand CC,clustering constraint
+expand CCD,central composite design
+expand CDF,cumulative distribution function
+expand CDM,crowding distance metric
+expand CED,Conditional Expected Delay
+expand cGMP,current good manufacturing practices
+expand CIM,Computer Integrated Manufacturing
+expand CLT,Central Limit Theorem
+expand CNC,Computerized Numerically Controlled
+expand CP,columnwise–pairwise
+expand CPA,Circuit Pack Assemblies
+expand CQA,Critical Quality Attribute
+expand CUSUM,Cumulative Sum
+expand CV,cross validation
+expand CVE,cross validation error
+expand DF,departure function
+expand DFIT,Fits distance
+expand DHASD,Delaunay hybrid adaptive sequential design
+expand DLM,Dynamic Linear Model
+expand DoE,design of experiments
+expand DT,Delaunay triangulation
+expand EBD,Empirical Bootstrap Distribution
+expand EE,expected error
+expand ESE,enhanced stochastic evolutionary
+expand EWMA,Exponentially Weighted Moving Average
+expand FLOLA,fuzzy local linear approximation
+expand FPM,Failures Per Million
+expand GLS,good lattice sampling
+expand GRR,Gage Repeatability and Reproducibility
+expand HAL,Halton sampling
+expand HAM,Hammersley sampling
+expand HPD,Highest Posterior Density
+expand i.i.d.,independent and identically distributed
+expand ILS,iterative local search
+expand IMSE,integrated mean squared error
+expand InfoQ,Information Quality
+expand IQR,Inter Quartile Range
+expand JK,Jackknifing
+expand KL,Kullback–Leibler
+expand KS,Kolmogorov-Smirnov
+expand LCL,Lower Control Limit
+expand LHD,Latin hypercube designs
+expand LHS,Latin hypercube sampling
+expand LLN,Law of Large Numbers
+expand LOLA,local linear approximation
+expand LQL,Limiting Quality Level
+expand LSD,Least Significance Difference
+expand LSE,Least Squares Estimators
+expand LSL,Lower Specification Limit
+expand LTPD,Lot Tolerance Percent Defective
+expand LWL,Lower Warning Limit
+expand m.g.f.,moment generating function
+expand MCS,Monte Carlo sampling
+expand MD,Mahalanobis distance
+expand ME,maximum entropy
+expand MLE,Maximum Likelihood Estimator
+expand MLE,maximum likelihood estimator
+expand MLP,multi-layer perceptron
+expand Mm,maximin distance
+expand mM,minimax distance
+expand MMSE,maximum mean squared error
+expand MSD,maximin scaled distance
+expand MSD,Mean Squared Deviation
+expand MSE,maximum sampling error
+expand MSE,mean squared error
+expand MST,minimum spanning tree
+expand MTBF,Mean Time Between Failures
+expand MTTF,Mean Time To Failure
+expand MVT,multivariable testing
+expand NID,normally and independently distributed random variables with mean 0 and variance 1
+expand NLP,nonlinear programming
+expand NN,nearest neighbor
+expand OA,optimization algorithms
+expand OAS,orthogonal array sampling
+expand OC,Operating Characteristic
+expand OCC,operating characteristic curve
+expand OFAT,one-factor-at-a-time
+expand PDF,probability density function
+expand PE,potential energy
+expand PerGA,permuted genetic algorithm
+expand PERT,Project Evaluation and Review Technique
+expand PFA,Probability of False Alarm
+expand PL,Product Limit Estimator
+expand PRESS,prediction error sum of squares
+expand PSE,Practical Statistical Efficiency
+expand PSO,particle swarm optimization
+expand QbD,quality by design
+expand QLHD,quasi-Latin hypercube Design
+expand QMCS,quasi-Monte carlo sampling
+expand QMP,Quality Measurement Plan
+expand QNS,quasi-Newton search
+expand QQ-Plot,Quantile vs. Quantile Plot
+expand QRLD,quasi-random low discrepancy
+expand RBF,radial basis functions
+expand RCBD,Randomized Complete Block Design
+expand RCBD,randomized complete block design
+expand RCE,row column exchange
+expand REML,residual maximum likelihood
+expand RIBD,randomized incomplete block design
+expand RMSE,Root Mean Squared Error
+expand RSD,relative standard deviation
+expand RSM,respone surface methodology
+expand RSWOR,Random Sample Without Replacement
+expand RSWR,Random Sample With Replacement
+expand SA,simulated annealing
+expand SE,Standard Error
+expand SFC,space-filling criteria
+expand SL,Skip Lot
+expand SLOC,Source Lines of Code
+expand SLSP,Skip Lot Sampling Plans
+expand SMCS,stratified Monte Carlo sampling
+expand SOBSA,sequencing optimization based on simulated annealing
+expand SPC,Statistical Process Control
+expand SPRT,Sequential Probability Ratio Test
+expand SR,Shiryayev-Roberts
+expand SSE,Sum of Squares of Residuals
+expand SSR,Sum of Squares Around the Regression Model
+expand SST,Total Sum of Squares
+expand STD,Standard Deviation
+expand SVM,support vector machines
+expand TA,threshold accepting based global search
+expand TP,translational propagation
+expand TTC,Time Till Censoring
+expand TTF,Time Till Failure
+expand TTR,Time Till Repair
+expand TTT,Total Time on Test
+expand UCL,Upper Control Limit
+expand UD,uniform designs
+expand USL,Upper Specification Limit
+expand UWL,Upper Warning Limit
+expand VT,Voronoi tessellation

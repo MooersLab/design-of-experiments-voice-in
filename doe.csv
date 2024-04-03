@@ -12,6 +12,7 @@ expand ASN,Average Sample Number
 expand ASQ,American Society for Quality
 expand ATI,Average Total Inspection
 expand BB,branch and bound
+expand BD,big data
 expand BECM,Bayes Estimation of the Current Mean
 expand BIBD,Balanced Incomplete Block Design
 expand BIBD,balanced incomplete block design
@@ -36,6 +37,7 @@ expand CQA,Critical Quality Attribute
 expand CUSUM,Cumulative Sum
 expand CV,cross validation
 expand CVE,cross validation error
+expand DDC,designed data collection
 expand DF,departure function
 expand DFIT,Fits distance
 expand DHASD,Delaunay hybrid adaptive sequential design
@@ -126,6 +128,7 @@ expand RSM,respone surface methodology
 expand RSWOR,Random Sample Without Replacement
 expand RSWR,Random Sample With Replacement
 expand SA,simulated annealing
+expand sdoe,sequental design of experiments
 expand SE,Standard Error
 expand SFC,space-filling criteria
 expand SL,Skip Lot

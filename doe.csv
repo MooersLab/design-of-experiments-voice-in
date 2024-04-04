@@ -99,7 +99,7 @@ expand OA,optimization algorithms
 expand OAS,orthogonal array sampling
 expand OC,Operating Characteristic
 expand OCC,operating characteristic curve
-expand OFAT,one-factor-at-a-time
+expand OFAT,One Factor At a Time
 expand PDF,probability density function
 expand PE,potential energy
 expand PerGA,permuted genetic algorithm
@@ -109,7 +109,7 @@ expand PL,Product Limit Estimator
 expand PRESS,prediction error sum of squares
 expand PSE,Practical Statistical Efficiency
 expand PSO,particle swarm optimization
-expand QbD,quality by design
+expand QbD,Quality by Design
 expand QLHD,quasi-Latin hypercube Design
 expand QMCS,quasi-Monte carlo sampling
 expand QMP,Quality Measurement Plan

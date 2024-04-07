@@ -16,6 +16,7 @@ expand BD,big data
 expand BECM,Bayes Estimation of the Current Mean
 expand BIBD,Balanced Incomplete Block Design
 expand BIBD,balanced incomplete block design
+expand BMM,Modified Box-Meyer Method
 expand BP,Bootstrap Population
 expand CAD,Computer Aided Design
 expand CADD,Computer Aided Drawing and Drafting
@@ -50,8 +51,10 @@ expand ESE,enhanced stochastic evolutionary
 expand EWMA,Exponentially Weighted Moving Average
 expand FLOLA,fuzzy local linear approximation
 expand FPM,Failures Per Million
+expand FF,Fractional Factorial
 expand GLS,good lattice sampling
 expand GRR,Gage Repeatability and Reproducibility
+expand GSD,Generalized Subset Design
 expand HAL,Halton sampling
 expand HAM,Hammersley sampling
 expand HPD,Highest Posterior Density
@@ -79,7 +82,6 @@ expand MCS,Monte Carlo sampling
 expand MD,Mahalanobis distance
 expand ME,maximum entropy
 expand MLE,Maximum Likelihood Estimator
-expand MLE,maximum likelihood estimator
 expand MLP,multi-layer perceptron
 expand Mm,maximin distance
 expand mM,minimax distance
@@ -91,6 +93,8 @@ expand MSE,mean squared error
 expand MST,minimum spanning tree
 expand MTBF,Mean Time Between Failures
 expand MTTF,Mean Time To Failure
+expand MBMM,Modified Box-Meyer Method
+expand MOFAT,Modified One Factor At a Time
 expand MVT,multivariable testing
 expand NID,normally and independently distributed random variables with mean 0 and variance 1
 expand NLP,nonlinear programming
@@ -130,6 +134,7 @@ expand RSWR,Random Sample With Replacement
 expand SA,simulated annealing
 expand sdoe,sequental design of experiments
 expand SE,Standard Error
+expand SOFAT,Standard One Factor At a Time
 expand SFC,space-filling criteria
 expand SL,Skip Lot
 expand SLOC,Source Lines of Code

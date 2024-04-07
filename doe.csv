@@ -23,6 +23,7 @@ expand CADD,Computer Aided Drawing and Drafting
 expand CAM,Computer Aided Manufacturing
 expand CAMM,continuous and multi-modal
 expand CBD,Complete Block Design
+expand CRD,Completely Randomized Design
 expand CC,clustering constraint
 expand CCD,central composite design
 expand CDF,cumulative distribution function

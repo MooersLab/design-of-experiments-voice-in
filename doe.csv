@@ -123,7 +123,6 @@ expand QQ-Plot,Quantile vs. Quantile Plot
 expand QRLD,quasi-random low discrepancy
 expand RBF,radial basis functions
 expand RCBD,Randomized Complete Block Design
-expand RCBD,randomized complete block design
 expand RCE,row column exchange
 expand REML,residual maximum likelihood
 expand RIBD,randomized incomplete block design

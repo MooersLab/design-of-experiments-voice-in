@@ -146,6 +146,7 @@ expand SL,Skip Lot
 expand SLOC,Source Lines of Code
 expand SLSP,Skip Lot Sampling Plans
 expand SMCS,stratified Monte Carlo sampling
+expand SN,Singal-to-Noise Ratio
 expand SOBSA,sequencing optimization based on simulated annealing
 expand SPC,Statistical Process Control
 expand SPRT,Sequential Probability Ratio Test
@@ -157,6 +158,7 @@ expand STD,Standard Deviation
 expand SVM,support vector machines
 expand TA,threshold accepting based global search
 expand TP,translational propagation
+expand TSS,Total Sum of Squares
 expand TTC,Time Till Censoring
 expand TTF,Time Till Failure
 expand TTR,Time Till Repair

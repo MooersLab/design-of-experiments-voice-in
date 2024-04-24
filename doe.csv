@@ -2,6 +2,8 @@ expand ACE,Approximate Coordinate Exchange
 expand ADEMP,"defining aims, data-generating mechanisms, estimands, methods, and performance methods"
 expand AES,adaptive exploratory sampling
 expand AHS,adaptive hybrid sampling
+expand AIC,Akaike Information Criterion
+expand AICc,Akaike Information Criterion corrected for small sample sizes
 expand AMPSO,adaptive memetic particle swarm optimization
 expand ANN,artificial neural networks
 expand ANOVA,Analysis of Variance

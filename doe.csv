@@ -33,6 +33,9 @@ expand CBD,Complete Block Design
 expand CRD,Completely Randomized Design
 expand CC,clustering constraint
 expand CCD,central composite design
+expand CCC,Central Composite Circumscribed
+expand CCI,Central Composite Inscribed
+expand CCF,Central Composite Face-Centered
 expand CDF,cumulative distribution function
 expand CDM,crowding distance metric
 expand CED,Conditional Expected Delay

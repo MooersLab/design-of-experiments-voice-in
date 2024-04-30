@@ -55,6 +55,7 @@ expand DLM,Dynamic Linear Model
 expand DoE,design of experiments
 expand DT,Delaunay triangulation
 expand EBD,Empirical Bootstrap Distribution
+expand EDA,Exploratory Data Analysis
 expand EE,expected error
 expand ESE,enhanced stochastic evolutionary
 expand EWMA,Exponentially Weighted Moving Average

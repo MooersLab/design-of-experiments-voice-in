@@ -114,6 +114,7 @@ expand OAS,orthogonal array sampling
 expand OC,Operating Characteristic
 expand OCC,operating characteristic curve
 expand OFAT,One Factor At a Time
+expand OVAT,One Variable At a Time
 expand PDF,probability density function
 expand PE,potential energy
 expand PerGA,permuted genetic algorithm

@@ -1,3 +1,4 @@
+expand 2FI,two-factor interaction
 expand ACE,Approximate Coordinate Exchange
 expand ADEMP,"defining aims, data-generating mechanisms, estimands, methods, and performance methods"
 expand AES,adaptive exploratory sampling
@@ -60,6 +61,7 @@ expand EWMA,Exponentially Weighted Moving Average
 expand FLOLA,fuzzy local linear approximation
 expand FPM,Failures Per Million
 expand FF,Fractional Factorial
+expand GEE,generalized estimating equations
 expand GLS,good lattice sampling
 expand GRR,Gage Repeatability and Reproducibility
 expand GSD,Generalized Subset Design

@@ -148,6 +148,7 @@ expand SE,Standard Error
 expand SOFAT,Standard One Factor At a Time
 expand SFC,space-filling criteria
 expand SL,Skip Lot
+expand SLS,Standard Least Squares
 expand SLOC,Source Lines of Code
 expand SLSP,Skip Lot Sampling Plans
 expand SMCS,stratified Monte Carlo sampling

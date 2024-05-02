@@ -79,6 +79,8 @@ expand IMSE,integrated mean squared error
 expand InfoQ,Information Quality
 expand IQR,Inter Quartile Range
 expand JK,Jackknifing
+expand JMP,John's (Sall) MacIntosh Program
+expand JSL,JMP Scripting Language
 expand KL,Kullback–Leibler
 expand KS,Kolmogorov-Smirnov
 expand LCL,Lower Control Limit

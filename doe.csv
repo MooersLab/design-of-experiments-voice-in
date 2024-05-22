@@ -114,6 +114,7 @@ expand MBMM,Modified Box-Meyer Method
 expand MOFAT,Modified One Factor At a Time
 expand MVT,multivariable testing
 expand NID,normally and independently distributed random variables with mean 0 and variance 1
+expand NIST,National Institue of Standards and Technology
 expand NLP,nonlinear programming
 expand NN,nearest neighbor
 expand OA,optimization algorithms
@@ -151,6 +152,7 @@ expand RSWR,Random Sample With Replacement
 expand SA,simulated annealing
 expand sdoe,sequental design of experiments
 expand SE,Standard Error
+expand SED,Statistical Engineering Division at NIST
 expand SOFAT,Standard One Factor At a Time
 expand SFC,space-filling criteria
 expand SL,Skip Lot
